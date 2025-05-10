@@ -12,8 +12,8 @@ site_theme               : "default"
 title                    : "Tianxing Li / Personal Page"
 title_separator          : "-"
 name                     : &name "Tianxing Li"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "An aspiring researcher in ​​Large Language Model (LLM) Agents"
+url                      : https://ltx-200211.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tianxing LI"
+  name             : "Tianxing Li"
   pronouns         : # example: "she/her"  
-  bio              : "an aspiring researcher in ​​Large Language Model (LLM) Agents​​"
+  bio              : "An aspiring researcher in ​​Large Language Model (LLM) Agents​​"
   location         : "China"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
